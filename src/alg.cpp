@@ -1,6 +1,7 @@
-// Copyright 2024 Notexxx
+// Copyright 2021 NNTU-CS
 
 #include "alg.h"
+#include <cstdint>
 
 uint64_t factorial(uint8_t n) {
     if (n == 0 || n == 1) {
